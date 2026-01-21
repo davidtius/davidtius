@@ -30,10 +30,10 @@ I am a Gameplay Programmer & Designer based in Surabaya, Indonesia. My expertise
 
 ---
 
-### 📊 Github Stats
+### 📊 Tech Stack Breakdown
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidtius&show_icons=true&theme=dark&hide_border=true" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidtius&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
