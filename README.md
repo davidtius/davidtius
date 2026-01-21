@@ -1,7 +1,7 @@
 # Hello! I'm David Vincentius.
 
 ### Game Designer & Developer 🇮🇩
-**Versatile Developer | Leadership Enthusiast | AI Specialist**
+**Versatile Developer | Strategic Team Lead | AI Specialist**
 
 I am a Gameplay Programmer & Designer based in Surabaya, Indonesia. My expertise lies in the intersection of **Game Design** and **Technical Implementation**. I don't just write code; I design systems. With a strong background in leadership (managing 99+ staff as Student Body President), I bring a disciplined, collaborative, and strategic approach to game development.
 
@@ -41,14 +41,14 @@ I am a Gameplay Programmer & Designer based in Surabaya, Indonesia. My expertise
 ### 🎖️ Leadership & Impact
 
 Beyond the IDE, I have extensive experience in **organizational leadership** and **project management**:
-* [cite_start]**President of Student Executive Board (BEM):** Led 99+ staff, managed IDR 375M budget, and orchestrated campus-wide initiatives[cite: 1104, 1105].
-* [cite_start]**Teaching Assistant:** Mentored students in **Data Structures, OOP, & Algorithms**, ensuring strong grasp of CS fundamentals.
+* **President of Student Executive Board (BEM):** Led 99+ staff, managed IDR 375M budget, and orchestrated campus-wide initiatives.
+* **Teaching Assistant:** Mentored students in **Data Structures, OOP, & Algorithms**, ensuring strong grasp of CS fundamentals.
 
 ---
 
 ### 📫 Let's Connect
 
-* 📧 **Email:** [email.kamu@gmail.com](mailto:davidvincentius@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/davidvincentius](http://linkedin.com/in/david-vincentius)
-* 🔗 **Linktree:** [linktr.ee/davidvincentius](linktr.ee/davidvincentius)
-* 🎮 **Play my games:** [itch.io/davidvincentius](http://davidtius.itch.io)
+* 📧 **Email:** [davidvincentius@gmail.com](mailto:davidvincentius@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/davidvincentius](https://www.linkedin.com/in/david-vincentius)
+* 🔗 **Linktree:** [linktr.ee/davidvincentius](https://linktr.ee/davidvincentius)
+* 🎮 **Play my games:** [itch.io/davidvincentius](https://davidtius.itch.io)
